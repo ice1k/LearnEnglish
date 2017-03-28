@@ -1,0 +1,9 @@
+## Configuration ##
+
+.vscode/
+.idea/
+
+## Generated ##
+
+*.html
+*.pdf
