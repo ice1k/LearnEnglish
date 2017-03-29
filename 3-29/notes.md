@@ -23,4 +23,11 @@ it 只能用于前者
 
 + reflect back (up) 反射回来
 
-+ be formed in special patterns
++ be formed in special patterns 形成了一些特殊的图案
+
++ Dutch/Holland/Dutchman/Netherlands<br/>
+荷兰的/荷兰（不常用）/荷兰人/荷兰（和Dutch是一对）
+
++ 过去一定不可能做到 can't have done
+
++ through out 经过了

@@ -32,7 +32,25 @@ _3_29.words ({
 		'gem' => '宝石',
 		'Pacific Ocean' => '太平洋',
 		'pacific' => '平静的，安宁的',
+		'pacifist' => '和平主义者',
+		'Peru' => '秘鲁',
+		'Ecuador' => '厄瓜多尔',
+		'high plain' => '高原（两个单词）',
+		'plateau' => '高原（一个单词）',
+		'coastal' => '海岸的，海边的',
+		'recover' => '恢复',
+		'form' => '形成',
+		'pattern' => '图案',
+		'Dutch' => '荷兰的，荷兰人的，荷兰语的',
+		'Holland' => '荷兰（音译，不常用）',
+		'Netherlands' => '荷兰',
+		'volcano' => '火山',
+		'present' => '呈现出来',
+		'alienate' => '疏离、疏远',
+		'tank' => '潭',
+		'posts' => '杆子',
 
 })
 
-_3_29.review
+# _3_29.review
+_3_29.listen_write

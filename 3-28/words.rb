@@ -45,8 +45,6 @@ _3_28.words ({
 		'astronomy' => '航天学',
 		'crater' => '火山口',
 		'sky' => '天空（广义的）',
-		"That's one small step for a man,
-one giant leap for mankind" => '这是个人的一小步，人类的一大步',
 		'moon landing' => '登月',
 		'therefore' => '因此',
 		'fake' => '假的东西，赝品（n.）',
