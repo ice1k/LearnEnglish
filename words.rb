@@ -78,5 +78,12 @@ end
 
 def listen_write(w)
 	w.listen_write
-	gets
+	input = gets
+end
+
+## it defines a getter
+def def_getter(ret)
+	define_method :get_today do
+		ret
+	end
 end

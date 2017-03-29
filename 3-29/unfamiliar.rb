@@ -40,6 +40,7 @@ a = [
 ]
 
 a.each do |w|
+	print get_today.refer(w), "\n"
+	input = gets
 	print w, "\n"
-	print get_today.refer w, "\n"
 end

@@ -45,3 +45,5 @@ _3_27.words ({
 
 # _3_27.review
 # _3_27.listen_write
+
+def_getter _3_27

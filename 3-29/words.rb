@@ -105,6 +105,4 @@ _3_29.words ({
 # _3_29.review
 # _3_29.listen_write
 
-define_method :get_today do
-	_3_29
-end
+def_getter _3_29
