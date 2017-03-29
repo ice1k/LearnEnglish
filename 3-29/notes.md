@@ -66,3 +66,11 @@ I have a hard time learning English
 + Office politics 办公室政治
 
 + Living standard 生活标准
+
++ civil servant 政府工作人员
+
++ job fair 人才市场（job market 更抽象的市场）
+
++ Online Celebrities 网红
+
++ Online Presenters 主播
