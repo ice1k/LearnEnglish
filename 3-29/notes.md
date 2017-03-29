@@ -64,3 +64,5 @@ I have a hard time learning English
 + stressing = stressful
 
 + Office politics 办公室政治
+
++ Living standard 生活标准
