@@ -69,8 +69,42 @@ _3_29.words ({
 		'accessory' => '饰品，附件',
 		'grocery' => '杂货',
 		'welfare' => '福利',
-
+		'sleep on it' => '留到次日解决',
+		"bite one's head off" => '（对某人）暴跳如雷',
+		'amuse' => '逗乐',
+		'launch' => '发射、发起，发动、启动、新产品发行出版',
+		'have a tantrum' => '发脾气，发怒',
+		'athletic' => '运动型的，健美♂的',
+		'hot-headed' => '易冲动的',
+		'regret' => '遗憾，悔恨（n.）',
+		'illegible' => '字迹难以辨认的',
+		'mythical' => '神话的，虚构的',
+		'creepy' => '令人毛骨悚然的',
+		'inglorious' => '不光彩的，可耻的',
+		'irrational' => '不合理的',
+		'elf' => '小精灵',
+		'epic' => '史诗',
+		'suspense' => '悬念',
+		'terrorise' => '使畏惧，恐吓',
+		'sit for' => '坐着（让人画像/拍照）',
+		'sit out' => '坐观（而不参加）',
+		'sit through' => '一直等到...结束',
+		'sit back' => '坐等',
+		'suspend' => '暂停，终止（由于犯规，犯错等）',
+		'suspect' => '怀疑，猜想（v.）嫌疑犯（n.）',
+		'deposit' => '存款（v. n.）',
+		'feel like doing' => '想做...',
+		'feel the need' => '感到有必要',
+		'in and out' => '进进出出',
+		'on and on' => '没完没了',
+		'on the up and up' => '扶摇直上九万里，青云直上，节节攀升',
+		'give in' => '屈服',
+		'give out' => '散发出某种味道',
 })
 
 # _3_29.review
-_3_29.listen_write
+# _3_29.listen_write
+
+define_method :get_today do
+	_3_29
+end

@@ -1,3 +1,4 @@
+## 3/29 笔记
 
 + Look like: 看起来像
 
@@ -74,3 +75,19 @@ I have a hard time learning English
 + Online Celebrities 网红
 
 + Online Presenters 主播
+
++ furious 狂怒（强调激动），rage 暴怒（强调愤怒）
+
++ 'perfect adj.<br/> per'fect v.使完美
+
++ tech'nique 技巧
+
++ technological 技术上的（多形容专业上的，行业上的）
+
++ technical 技术上的（多形容能力的）
+
++ technology 技术
+
++ technician 技师
+
++ technologist 技术专家

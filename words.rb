@@ -65,9 +65,9 @@ class Words
 	def refer(key)
 		w = @map[key]
 		if w.nil?
-			print 'Unknown word:', key, "\n"
+			return 'Unknown word:', key, "\n"
 		else
-			print w
+			w
 		end
 	end
 end
