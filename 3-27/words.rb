@@ -20,7 +20,7 @@ _3_27.words ({
 		'isolate(remote)' => '把...分离出来',
 		'lux' => '光',
 		'fund' => '基金，资金，提供资金',
-		'coral reet' => '珊瑚礁',
+		'coral reef' => '珊瑚礁',
 		'got to be going' => '得走了',
 		"how's life" => '过得怎样',
 		'contemporary' => '当代的',
@@ -43,4 +43,5 @@ _3_27.words ({
 		'liberty' => '自由',
 })
 
-_3_27.review
+# _3_27.review
+_3_27.listen_write

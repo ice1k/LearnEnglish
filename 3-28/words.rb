@@ -147,5 +147,5 @@ one giant leap for mankind" => '这是个人的一小步，人类的一大步',
 		'prayer' => '祷告词',
 })
 
-_3_28.review
-# _3_28.listen_write
+# _3_28.review
+_3_28.listen_write
