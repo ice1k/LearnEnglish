@@ -187,10 +187,26 @@ as a billionaire.
 
 + show sb. (a)round 带某人到处看看，转转
 
-+ 
++ just as == while
+
++ talk about happiness ayh? 说好的幸福呢？
+
++ resort to 诉诸于，凭借于
+
++ effort 努力
+
++ make efforts/an effort to do
+
++ spare no effort to do sth. 不遗余力做...
+
++ gently 温柔，轻柔
+
++ bend down 弯曲，躬身
+
++ knees on the ground(agv.伴随)
+
++ idiot 傻逼
 
 
 
-
-+ 我可能是个假中国人
 

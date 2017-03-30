@@ -28,6 +28,7 @@ _3_30.words ({
 		'canopy' => '篝火',
 		'priest' => '牧师',
 		'eventually' => '最终',
+		'resort to' => '诉诸于，凭借于',
 		'' => '',
 })
 
