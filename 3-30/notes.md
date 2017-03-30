@@ -58,11 +58,41 @@ about ... .
 
 ## 将来完成时
 
++ will have done
+
++ 表示在将来某个时间点一定会完成的动作（有预计的成分）
+
+> Next year, they will have been married for 25 years.
+
+> By the end of next month, we'll have completed 80%
+of the entire project.
+
+> Before you arrive at the train station,
+Tom will have prepared a wonderful dinner for you.
+
+> By 2030, the fish will have been extinct completely.
+
+> By 2050, we will have used up all of the natural
+resources, an this planet.
+
+> will be dying out<br/>^  正在灭绝
+
+> by + 点时间： 在这之前，截止（类似before，但是更近）
 
 
+## 非谓语
 
++ 现在分词作后置定语
 
+> Do you know the man sending Lucy flowers every day?
 
+> Who starred this file? The man starring this film is.
+
+> The documentary which promotes children's rights in
+impoverished has won numerous awards throughout the world.
+
+> The old man murdered in the hotel yesterday was reported
+as a billionaire.
 
 
 

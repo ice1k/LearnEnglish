@@ -11,7 +11,11 @@ _3_30.words ({
 		'flu' => '流感',
 		'crisis' => '危机（单数）',
 		'crises' => '危机（复数）',
-		'' => '',
+		'fresh water' => '淡水',
+		'promote' => '宣传，促进，提高',
+		'impoverished' => '贫穷的（书面）',
+		'numerous' => '众多的（书面）',
+		'Box office' => '票房，售票处',
 })
 
 def_getter _3_30
