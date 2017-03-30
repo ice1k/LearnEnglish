@@ -95,4 +95,102 @@ impoverished has won numerous awards throughout the world.
 as a billionaire.
 
 
+## 听力
+
++ broad-shouldered adj. 有宽阔肩膀的
+
++ shoulder v. 用肩扛起
+
++ 介词放在句首，后面倒装
+
++ feel like doing 想要怎样
+
+> feel like crying
+
++ downtown adv. 进城
+
++ copper /kope/ n. Cu
+
++ chain store 连锁店
+
++ almost in tear 含着泪（快哭出来了）
+
++ take a deep breadth 深呼吸
+
++ breath n.
+
++ out of one's breath 上气不接下气
+
++ breathe v. (~ in)
+
++ whistle /wisl/ 吹口哨
+
++ whistler 吹口哨的人
+
++ apartment （美式）公寓 （flat（英式））
+
++ pavement 人行道（英式） sidewalk （美式）
+
++ gasp 喘气
+
++ in surprise 惊讶地
+
++ be angry with sb. 对...生气
+
++ unbutton 解开纽扣
+
++ be/fall in love with 爱着/爱上
+
++ grow sth. 让...生长
+
++ mahr 价值
+
++ Qur'an 古兰经
+
++ permission for sth. 对...的许可
+
++ scarf 围巾
+
++ headscarf 头巾
+
++ prayer 祷告词
+
++ share a meal 吃饭
+
++ maoism 毛泽东主义
+
++ priest 牧师
+
++ canopy 篝火
+
++ powder 粉
+
++ status 身份
+
++ sacred 神圣的（~= holy）
+
++ to start with, to finish with
+
++ grabbed 抓（grab）
+
++ pushing ab. around 推攘（不是推着转圈圈）
+
++ eventually 最终
+
++ accidentally
+
++ get hold of == hold
+
++ all sorts of things 各种各样的东西
+
++ shouldn't have done 过去应该做什么却没做
+
++ show sb. (a)round 带某人到处看看，转转
+
++ 
+
+
+
+
++ 我可能是个假中国人
 

@@ -34,7 +34,7 @@ on the astronaut.
 
 + Nothing.
 
-+ Exactly 
++ Exactly.
 
 
 

@@ -16,6 +16,19 @@ _3_30.words ({
 		'impoverished' => '贫穷的（书面）',
 		'numerous' => '众多的（书面）',
 		'Box office' => '票房，售票处',
+		'strike' => '擦，蹭，擦过，划过',
+		'plump' => '丰满圆胖，偏胖',
+		'possess' => '对...具有所有权',
+		'whistle' => '吹口哨',
+		'gasp' => '喘气',
+		'grow' => '种植，使生长（vt.）',
+		'vary' => '变化（n.）多变（v.）',
+		'spouse' => '配偶（生物上的）',
+		'conduct' => '操作，操纵（抽象的）',
+		'canopy' => '篝火',
+		'priest' => '牧师',
+		'eventually' => '最终',
+		'' => '',
 })
 
 def_getter _3_30
