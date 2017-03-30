@@ -207,6 +207,43 @@ as a billionaire.
 
 + idiot 傻逼
 
++ roomer 谣言
 
++ suggest 说，show，illustrate
 
++ shoot 拍摄
+
++ horror 恐怖
+
++ come to mind 突然想起
+
++ have sth. in (one's) mind 把...考虑在内 （区别：count in）
+
++ go over sth. in one's mind 反复思考...
+
++ be concerned about 对...担心的
+
++ slip one's mind 忘记（自己忘记了）
+
++ speak one's mind 表达意见
+
++ take one's mind of sth. 忘掉（努力不去想）
+
++ down side 底侧
+
++ architecture 建筑设计
+
++ put on a show 演出
+
++ beg (for/of) sb. to do
+
++ feature 特征，特点（n.） 给...以显著位置（v.）
+
++ react with 和...发生化学反应
+
++ react to 对...做出反应
+
++ wrestle 摔♂跤
+
++ 卍卐¤◎§♬♫♪♩♭♯♮#‖¶▬〓▓▒※♂♂♂♂≤≥﹥≦≧∵∴∷∶♂
 
