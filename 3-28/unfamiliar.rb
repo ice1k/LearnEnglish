@@ -15,3 +15,8 @@ o = [
 ]
 
 p o
+
+# In spite of the material benefits wealth provide,
+# I believe one should abandon the pursuit of materialism
+# and instead concentrate on the pursuit of happiness.
+

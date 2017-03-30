@@ -33,13 +33,30 @@ at tomorrow morning.
 
 + 表示对将来的打算（可近期可远期）
 
++ Samples
+
 > I'll be missing you.
 
 > i'll be eating dinner at 8:00 a.m. today.
 
+> This time next week I'll be on holiday.
+I'll be lying on the beach or swimming in the sea.
 
+> You have no chance of getting the job.
+You'll be wasting your time if you apply
+for it.
 
+> Don't phone between 7:00 a.m. and 8:00 a.m.
+We'll be having dinner.
 
+> The government will be making a statement
+about ... .
+
+> Will you be going away this summer?
+
+> i'll talk to the prime minister of Education.
+
+## 将来完成时
 
 
 

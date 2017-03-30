@@ -85,9 +85,6 @@ _3_28.words ({
 		'wave' => '大波浪',
 		'reserved' => '内敛的，不爱说话的',
 		'in spite of' => '考虑到',
-		# In spite of the material benefits wealth provide,
-		# I believe one should abandon the pursuit of materialism
-		# and instead concentrate on the pursuit of happiness.
 		'wealth' => '财富，富裕',
 		'pursuit' => '追求',
 		'materialism' => '物质化，物质主义',

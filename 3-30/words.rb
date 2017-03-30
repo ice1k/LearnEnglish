@@ -9,6 +9,8 @@ _3_30.words ({
 		'empathy' => '感同身受，移情',
 		'systems-thinking' => '系统性思维',
 		'flu' => '流感',
+		'crisis' => '危机（单数）',
+		'crises' => '危机（复数）',
 		'' => '',
 })
 
