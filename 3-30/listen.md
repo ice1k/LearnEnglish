@@ -25,7 +25,7 @@ that there must be 2 light sources. Studio lights!
 + Behind the astronaut.
 
 + So, if the light is behind the astronaut, why is the front of him,
-not in darkness? Why? Because they used the studio lights, to shine
+not in darkness? Why? Because they used the studio light, to shine
 on the astronaut.
 
 + Aha.
@@ -34,8 +34,20 @@ on the astronaut.
 
 + Nothing.
 
-+ Exactly.
++ Exactly. Where are the stars? This can't be a photo of the moon,
+because there are no stars.
 
++ But why would the Americans want to do something like this?
+
++ Well, you have to remember the back in the 60s. The U.S. was in the
+middle of the cold war with the Russians, it was very important for
+both countries to show their advanced technology. Space travel was the
+greatest challenge. The Russians was the first to put man in space,
+in 1959. The U.S. needed to do something better. I believe, the American
+government produced these photos, so that the world think they will win
+in the race.
+
++ Thank you for your fascinating theories, professor.
 
 
 
