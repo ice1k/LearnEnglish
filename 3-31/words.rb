@@ -1,9 +1,8 @@
-
 require_relative '../words'
 
 _3_31 = Words.new
 
-_3_31.words({
+a = {
 		'go climbing' => '爬山',
 		'lottery' => '彩票',
 		'come' => 'come的过去分词',
@@ -27,6 +26,10 @@ _3_31.words({
 		'joint' => '关节',
 		'blister' => '溃疡',
 		'apply' => '涂，擦（~ sth. on sth.）',
-})
+		'bandage' => '创口贴',
+		'mint' => '含片',
+}
+
+_3_31.words a
 
 def_getter _3_31

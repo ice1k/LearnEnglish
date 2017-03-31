@@ -86,7 +86,7 @@ end
 
 apply 'a doctor'
 
-make 'an appointment'
+# make 'an appointment'
 
 # Muscle Cream 肌肉膏（防止肌肉酸疼）
 
@@ -102,10 +102,62 @@ make 'an appointment'
 
 # forever young
 
-# a jar of
+/ a jar of /
 
-# OTC = over the counter 非处方
+/ OTC = over the counter 非处方 /
 
 prescription = :药方
 
-# prescribed medicine 处方药
+/ prescribed medicine 处方药 /
+
+deodorant = :止汗露
+
+/ arm pits 腋下 /
+
+razor = :剃须刀 # ~= shaver
+
+a = /
+paper napkin ~= tissues
+/
+
+a = /
+toilet paper 厕纸
+/
+
+a = /
+a pack of
+/
+
+a = /
+Someone (standing near you) faints
+/
+
+         /
+        /
+       /
+      /
+     /
+    /
+   /
+  /
+ /
+/
+\
+ \
+  \
+   \
+    \
+     \
+      \
+       \
+        \
+
+spoof = :恶搞
+
+/ video clip /
+
+nonsense = :废话
+
+/ against /
+
+stand = :立场
