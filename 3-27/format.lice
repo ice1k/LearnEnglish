@@ -1,5 +1,9 @@
 ; lice file
 
-((for-each i
+(for-each i
   (list "words.rb")
-  (|> )))
+  (|> ))
+
+(for-each i
+  (.. 1 100)
+  (|> (print "Hello")))
