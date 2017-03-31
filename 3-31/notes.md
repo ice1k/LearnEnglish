@@ -82,10 +82,33 @@ See [another note](../3-28/notes.yml).
 
 > I'd have finished this job if I'd learned about design patterns.
 
-> The professor wouldn't have such theory if he had known
+> The professor wouldn't have such theories if he had known
 more about physics and space travelling.
 
 > NASA would have been embarrassed if they hadn't let such a spokeswomen
 to explain why there's something strange on the photos.
 
-> I wouldn't have came here if I hadn't started programming.
+> I wouldn't have come here if I hadn't started programming.
+
+## Conclusion
+
+类别|主句|从句
+:---|:---:|---:
+1|will/can/may + do/does|do/does
+2|would/could/might + do/does|did/was/were
+3|would/could/might + have done|had done
+
+## 错综条件句
+
++ 主句和从句所对应的时间段不一致
+
++ 也属于虚拟语气的范畴，可以视为综合了第二和第三条件句
+
+> If I had studied English harder, I wouldn't be here now.
+
+> If Emily had apologized to Paul, they might still be together.
+
+> If I had gone to bed earlier last night, I wouldn't be so sleepy right now.
+
+
+
