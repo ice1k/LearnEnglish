@@ -33,3 +33,4 @@ a = {
 _3_31.words a
 
 def_getter _3_31
+_3_31.listen_write

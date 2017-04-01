@@ -46,7 +46,7 @@ indigestion = '不消化'
 
 fracture = '骨折'
 
-# I.feel 'seek'
+# I.feel 'sick'
 # 我觉得恶心
 
 awesome = :极好
@@ -151,12 +151,15 @@ Someone (standing near you) faints
       \
        \
         \
+         \
 
 spoof = :恶搞
+p spoof
 
 / video clip /
 
 nonsense = :废话
+p nonsense
 
 / against /
 
