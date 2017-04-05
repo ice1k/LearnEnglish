@@ -4,6 +4,9 @@ class String
 				.tr('.', '')
 				.tr("'", '')
 				.tr('-', '')
+				.tr('sb.', '')
+				.tr('sw.', '')
+				.tr('sth.', '')
 				.downcase
 	end
 end

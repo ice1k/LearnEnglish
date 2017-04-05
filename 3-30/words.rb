@@ -35,7 +35,6 @@ _3_30.words ({
 		'memorise' => '默记',
 		'brainchild' => '想法',
 		'brainwave' => '灵感',
-		'super brain' => '超强记忆',
 		'remarkable' => '值得注意的',
 		'forehead' => '前额',
 		'suspicion' => '猜疑，怀疑',
