@@ -2,7 +2,8 @@ require_relative '../words'
 
 _3_31 = Words.new
 
-a = {
+# noinspection RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection,RubyStringKeysInHashInspection
+ass_we_can = {
 		'go climbing' => '爬山',
 		'lottery' => '彩票',
 		'come' => 'come的过去分词',
@@ -30,7 +31,7 @@ a = {
 		'mint' => '含片',
 }
 
-_3_31.words a
+_3_31.words ass_we_can
 
 def_getter _3_31
 _3_31.listen_write

@@ -1,12 +1,13 @@
 class String
 	def trim
 		tr("\n", '')
-				.tr('.', '')
+				.tr(' ', '')
 				.tr("'", '')
 				.tr('-', '')
 				.tr('sb.', '')
 				.tr('sw.', '')
 				.tr('sth.', '')
+				.tr('.', '')
 				.downcase
 	end
 end
