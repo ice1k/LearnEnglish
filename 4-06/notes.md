@@ -1,6 +1,5 @@
 
-
-
+## 2017/4/5
 
 + flip through 翻阅
 
@@ -25,5 +24,43 @@
 + therapy [C.] 治疗
 
 + venom 毒液
+
++ metal-working 金属铸造（行业）
+
++ parenting 亲子的
+
++ in some way 在某种程度上
+
++ spend time (in)
+
++ discipline 纪律/学科
+
++ be enthusiastic about 对...有热情
+
++ enthusiasm 热情
+
++ be familiar with 对...熟悉
+
++ be fed up 厌倦
+
++ stress out 紧张的
+
++ recommend ... to ... 向...安利
+
++ drop out 推出
+
++ swear swore swore 许诺
+
++ Sympathetic (to/towards) 对...同情
+
++ blush (with/for) shyness 由于害羞而脸红 /(/ /•/ω/•/ /)/
+
++ impress ... (by/with) ...
+
++ managed to do 试图做并做到了...
+
++ be obligated to do 有义务...
+
++ temptation 吸引（n.）
 
 + 

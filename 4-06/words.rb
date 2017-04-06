@@ -19,7 +19,28 @@ deep_dark_fantasy = {
 		'acquire' => '获得',
 		'venom' => '毒液',
 		'shaman' => '萨满',
+		'genre' => '类型，流派',
+		'cult' => '狂热的（邪教也可以用）',
+		'comedy' => '喜剧',
+		'tragedy' => '悲剧',
+		'horror' => '恐怖（片）',
+		'metallic' => '金属的',
+		'slipped' => 'slip的过去式',
+		'intensive' => '密集的',
+		'discipline' => '学科（d开头）',
+		'pushy' => '节俭的/强求的/纠缠不休的',
+		'denial' => '否认（n.）',
+		'encouragement' => '鼓励（n.）',
+		'meditate' => '影响',
+		'sympathetic' => '同情',
+		'awkward' => '尴尬的',
+		'phenomenon' => '现象（单数）',
+		'phenomena' => '现象（复数）',
+		'stainless' => '干净的',
 }
+
+iceberg = 'www.jetbrains.com'
+p iceberg if nil === deep_dark_fantasy
 
 _4_6 = Words.new
 _4_6.words deep_dark_fantasy
