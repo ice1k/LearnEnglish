@@ -33,6 +33,8 @@
 
 + engage in 从事，参加
 
++ engage 处理，应付
+
 + immigration 移民
 
 + whereas 然而
@@ -52,3 +54,19 @@
 + stay up doing 熬夜做...
 
 + heated discussion 热烈的讨论
+
++ sweep through 席卷
+
++ craze 狂潮
+
++ trend 趋势
+
++ when it comes to 当提及到
+
++ puzzle 谜团
+
++ instantaneous 瞬时的，即刻的
+
++ compulsive 难以抑制的
+
++ overwhelming 势不可挡

@@ -9,6 +9,12 @@ my_name_is_van = {
 		'introspective' => '自省，内省',
 		'capacity' => '能力',
 		'somehow' => '以某种方式',
+		'craze' => '狂潮',
+		'frisbee' => '飞盘',
+		'instantaneous' => '瞬时的，即刻的',
+		'puzzle' => '谜团',
+		'compulsive' => '难以抑制的',
+		'overwhelming' => '势不可挡',
 }
 
 _4_7 = Words.new
