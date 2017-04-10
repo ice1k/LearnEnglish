@@ -77,3 +77,49 @@
 + flash mob 快闪族
 
 + in harmony 和谐的
+
++ make up \[化解|化妆|弥补|编造\] (v.)
+
++ make-up n. 化妆品
+
++ neutral 中立的 ~= indifferent
+
++ neutrality 中立/中立的立场/中性（化学上的，物理上的） (n.)
+
++ neutralization 中和/中和作用
+
++ neutralize 使\[中和/抵消/无效\]
+
++ neutralism 中立主义
+
++ efficient 有效率的
+
++ overwhelmed \[受宠若惊的，不知所措的|淹没，压倒\]
+
++ overwhelm 淹没，压倒
+
++ overwhelming 压倒性的，势不可挡的
+
++ deadlock \[僵局|死锁\]
+
++ dilemma 窘境 囧境
+
++ insanity 疯狂的，发疯的
+
++ prejudice 偏见
+
++ accuse 控告
+
++ award 奖赏，奖金
+
++ confront (be confronted with)
+
++ nitro-glycerine 硝化甘油
+
++ promote 促进
+
++ protest 抗议
+
++ slip away 流逝
+
++ accidentally 偶然的

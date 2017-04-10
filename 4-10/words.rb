@@ -15,6 +15,11 @@ slaves_get_your_ass = {
 		'applaud' => '鼓掌',
 		'sociology' => '社会学',
 		'harmony' => '和谐的',
+		'indifferent' => '中立',
+		'neutralization' => '中和作用',
+		'neutralize' => '使[中和/抵消/无效]',
+		'prejudice' => '偏见',
+		'dilemma' => '窘境',
 }
 
 _4_10 = Words.new slaves_get_your_ass
