@@ -71,3 +71,9 @@
 + applaud 鼓掌
 
 + track down 追踪
+
++ sociology 社会学
+
++ flash mob 快闪族
+
++ in harmony 和谐的
