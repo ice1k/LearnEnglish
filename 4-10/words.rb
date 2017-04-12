@@ -25,4 +25,4 @@ slaves_get_your_ass = {
 
 _4_10 = Words.new
 _4_10.words slaves_get_your_ass
-_4_10.review
+# _4_10.review

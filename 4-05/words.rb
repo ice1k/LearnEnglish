@@ -39,5 +39,5 @@ boy_next_door = {
 _4_5 = Words.new
 _4_5.words boy_next_door
 
-_4_5.review
+# _4_5.review
 # _4_5.listen_write

@@ -20,4 +20,4 @@ my_name_is_van = {
 _4_7 = Words.new
 _4_7.words my_name_is_van
 
-_4_7.review
+# _4_7.review

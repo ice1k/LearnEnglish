@@ -30,4 +30,4 @@ fuck_that_shit = {
 
 _4_12 = Words.new
 _4_12.words fuck_that_shit
-_4_12.review
+# _4_12.review
