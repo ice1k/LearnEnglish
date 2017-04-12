@@ -18,6 +18,8 @@ fuck_that_shit = {
 		'hectare' => '公顷',
 		'abuse' => '滥用',
 		'colonise' => '殖民',
+		'reveal' => '揭露',
+		'present' => '呈现',
 }
 
 _4_12 = Words.new

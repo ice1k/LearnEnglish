@@ -40,6 +40,14 @@
 
 + fresh water supplies 淡水资源供应
 
++ draw attention to 吸引...的注意
+
++ reveal 揭露
+
++ present 呈现
+
++ Cod 鳕鱼、愚弄，欺骗
+
 ### 将来完成时
 
 + will have done
