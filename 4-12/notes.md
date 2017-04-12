@@ -48,6 +48,14 @@
 
 + Cod 鳕鱼、愚弄，欺骗
 
++ consume 消费，消耗
+
++ conserve 节约
+
++ starvation 饥饿(n.)
+
++ bring about an end to 终结
+
 ### 将来完成时
 
 + will have done

@@ -20,6 +20,7 @@ fuck_that_shit = {
 		'colonise' => '殖民',
 		'reveal' => '揭露',
 		'present' => '呈现',
+		'conserve' => '节约',
 }
 
 _4_12 = Words.new
