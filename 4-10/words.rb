@@ -20,7 +20,9 @@ slaves_get_your_ass = {
 		'neutralize' => '使[中和/抵消/无效]',
 		'prejudice' => '偏见',
 		'dilemma' => '窘境',
+		'syntactically' => '词法上的',
 }
 
-_4_10 = Words.new slaves_get_your_ass
+_4_10 = Words.new
+_4_10.words slaves_get_your_ass
 _4_10.review
