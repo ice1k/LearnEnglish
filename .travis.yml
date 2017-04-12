@@ -1,6 +1,6 @@
 language: ruby
 sudo: required
 rvm:
-  - 2.3.3-p222
+  - 2.1
 script:
   - "ruby build_all.rb"
