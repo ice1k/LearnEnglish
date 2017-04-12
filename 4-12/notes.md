@@ -56,6 +56,39 @@
 
 + bring about an end to 终结
 
++ step in 介入，干预
+
++ take on 承担
+
++ ever since 从那时开始
+
++ photocall 官员和名人接受媒体拍照的时间
+
++ poverty 贫困（poor的名词形式）
+
++ refugee 难民
+
++ recruit 招募
+
++ every now and then 偶尔，时不时的
+
++ one-off 一次性的
+
++ make it big 让它成功
+
++ play a part in doing 参与一起做...
+
++ tremendous 巨大的，惊人的，极好的
+
++ first-hand 第一手的
+
++ motivate 激励
+
++ all for === support
+
++ elect 选举 <br/>
+get elected again
+
 ### 将来完成时
 
 + will have done

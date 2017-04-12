@@ -21,6 +21,11 @@ fuck_that_shit = {
 		'reveal' => '揭露',
 		'present' => '呈现',
 		'conserve' => '节约',
+		'ever since' => '从那时开始',
+		'poverty' => '贫困（poor的名词形式）',
+		'refugee' => '难民',
+		'tremendous' => '巨大的，惊人的，极好的',
+		'one-off' => '一次性的',
 }
 
 _4_12 = Words.new
