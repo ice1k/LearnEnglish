@@ -1,5 +1,7 @@
 ## LearnEnglish
 
+[![Build Status](https://travis-ci.org/ice1000/LearnEnglish.svg?branch=master)](https://travis-ci.org/ice1000/LearnEnglish)
+
 上TOEFL课时做的笔记。由于这玩意不是特别针对TOEFL的，所以就起了个普适性的仓库名，LearnEnglish。
 
 由于这个项目是我拿来背单词的，也就是说其实是面向中国人的，所以说我就不写英语文档了。
