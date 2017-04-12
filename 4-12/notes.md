@@ -89,6 +89,33 @@
 + elect 选举 <br/>
 get elected again
 
++ accompany 伴奏/陪伴 (keep each other accompany)
+
++ coincide 同时发生
+
++ combine 组合 combination
+
++ distract 使...分心
+
++ distracting 分心的，分散注意力的
+
++
+verb|noun|meaning
+:---|:---:|---:
+insure|insurance|投保，给...保险
+ensure|guarantee|保证，确保(确保发生了什么)
+assure|assurance|保证，担保，使确信(向人保证)
+
++ estimate 根据估计 It's ~ that
+
++ perceive 理解，领悟
+
++ seek sought sought
+
++ continually 持续地
+
++ obviously<br/>clearly<br/>apparently<br/>distinctly
+
 ### 将来完成时
 
 + will have done

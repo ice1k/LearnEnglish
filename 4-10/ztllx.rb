@@ -15,4 +15,4 @@ die = 'die'
 were = false
 killed = true
 
-people die if they were, killed
+people die if killed
