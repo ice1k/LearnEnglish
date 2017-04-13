@@ -7,3 +7,9 @@
 
 *.html
 *.pdf
+
+## Executable ##
+
+*.exe
+*.jar
+*.o
