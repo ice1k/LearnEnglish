@@ -13,12 +13,12 @@ my_words = {
 		'vowel' => '元音',
 		'gist' => '要点，主旨',
 		'compulsory' => '必须做的，义务的',
-		'breed' => '品种，类型',
+		'breed' => '品种，类型，血统',
 		'betrayal' => '出卖（n.）',
 		'edge' => '优势，边缘',
 		'foam' => '泡沫',
 		'fortnight' => '两星期',
-		'heritage' => '文化遗产',
+		'heritage' => '遗产',
 		'originate' => '发源，起源（~ from）',
 		'evoke' => '引起，唤起',
 		'preserve' => '保护',
@@ -29,6 +29,11 @@ my_words = {
 		'trek' => '艰难的行走',
 		'single' => '单曲',
 		'relief' => '松口气',
+		'mountainous' => '多山的',
+		'consonant' => '辅音',
+		'appropriate' => '适当的',
+		'emigrate' => '移民',
+		'roughly' => '大概的',
 }
 
 _4_13 = Words.new

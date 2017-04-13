@@ -45,5 +45,10 @@ words = [
 		'sympathetic',
 		'witty',
 		'gossip',
+		'obliged',
 ]
 
+words.each do |word|
+	print word, "\n"
+	gets
+end
