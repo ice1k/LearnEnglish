@@ -10,3 +10,14 @@
 end
 
 print 'All files loaded.', "\n"
+
+if $*[0] != '--no-eval'
+	loop do
+		begin
+			p eval gets
+		rescue SyntaxError
+			print 'syntax error', "\n"
+		ensure
+		end
+	end
+end

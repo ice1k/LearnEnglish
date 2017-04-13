@@ -3,4 +3,4 @@ sudo: required
 rvm:
   - 2.1
 script:
-  - "ruby build_all.rb"
+  - "ruby build_all.rb --no-eval"
