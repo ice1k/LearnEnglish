@@ -1,5 +1,4 @@
 
-
 words = [
 		'hypocritical',
 		'intellectual',
@@ -11,3 +10,8 @@ words = [
 		'gossip',
 		'intellij idea'
 ]
+
+words.each do |word|
+	print word, "\n"
+	gets
+end
