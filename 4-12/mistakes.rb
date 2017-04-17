@@ -13,7 +13,7 @@ words = [
 		'symptom',
 		'therapy',
 		'indigenous',
-		'herbal',
+		'herbal', # 草药
 		'panicky',
 		'instructor',
 		'diminish',
