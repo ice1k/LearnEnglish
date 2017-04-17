@@ -11,4 +11,4 @@ fuck_you = {
 
 _4_14 = Words.new
 _4_14.words fuck_you
-_4_14.review
+# _4_14.review

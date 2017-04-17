@@ -24,3 +24,17 @@
 + He had been living here before he went to ShangHai.
 
 + When will you be finishing your homework?
+
++ [be(时态变化)] + { 过分(done/been) }
+
++ These cars will be sent abroad by sea.
+
++ The English lesson is being broadcasted on the radio.
+
++ This road was being repaired last night.
+
++ The tickets had been sold out when I arrived last night.
+
++ This bridge will have been built by 2020.
+
++ Must be handed.
