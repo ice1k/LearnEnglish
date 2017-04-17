@@ -6,6 +6,7 @@ ws = {
 		'undermine' => '破坏',
 		'numerous' => '许多的，很多的',
 		'diagnose' => '诊断',
+		'Penicillin' => '青霉素',
 }
 
 # <||| <|| <| <|> |> ||> |||>

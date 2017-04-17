@@ -15,7 +15,7 @@
 
 + I was watching TV while my parents came home.
 
-+ Jorden phoned me while my sister was doing her homework.
++ Jordan phoned me while my sister was doing her homework.
 
 + He told me he had finished his homework.
 
@@ -29,7 +29,7 @@
 
 + These cars will be sent abroad by sea.
 
-+ The English lesson is being broadcasted on the radio.
++ The English lesson is being broadcast on the radio.
 
 + This road was being repaired last night.
 
