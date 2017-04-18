@@ -9,3 +9,8 @@ words_list = {
   'contrarily' => '相反的',
   'contradiction' => '矛盾',
 }
+
+_4_18 = Words.new
+_4_18.words words_list
+
+_4_18.review
