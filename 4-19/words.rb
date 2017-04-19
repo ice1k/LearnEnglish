@@ -9,6 +9,7 @@ attack_on_titan = {
 		'portray' => '描绘',
 		'lash out' => '大力挥霍，被抨击',
 		'experience' => '体验(v.)',
+		'natatorium' => '游泳场馆',
 }
 
 _4_19 = Words.new

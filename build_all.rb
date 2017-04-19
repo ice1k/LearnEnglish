@@ -18,7 +18,7 @@ end
 if $*[0] != '--no-eval'
 	loop do
 		begin
-			p eval gets
+			p '=> ', eval gets
 		rescue SyntaxError
 			print 'syntax error', "\n"
 		rescue NameError
