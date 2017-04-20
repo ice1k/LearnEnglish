@@ -1,4 +1,4 @@
-go on a demonstration
+list = 'go on a demonstration
 
 petition
 
@@ -103,3 +103,8 @@ tick alone
 come off it
 
 point taken
+'.split "\n\n"
+
+list.each do |element|
+	print element, "\n"
+end

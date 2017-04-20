@@ -1,4 +1,4 @@
-举行游行
+list = '举行游行
 
 请愿书
 
@@ -101,3 +101,9 @@ tick alone　=> 改变
 别胡扯了
 
 我同意你的观点
+'.split "\n\n"
+
+list.each do |element|
+	print element, "\n"
+	gets
+end

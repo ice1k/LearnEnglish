@@ -24,3 +24,17 @@
 + If only/I wish
 
 + as if
+
++ approximately 大概
+
++ proportion 比例
+
++ the proportion of (n.) is
+
++ outcome === result
+
++ be similar to === be in line with
+
++ confirmed
+
++ Americans' consumption of food accounted for 44%.
