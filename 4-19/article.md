@@ -22,5 +22,4 @@ As known by everyone, team sports help us to discover a team spirit, this is als
 reason why soccer lovers are always gathered together, but stay alone.
 Soccer brings you friendship, and also warmness.
 
-From that we can draw a conclusion that soccer is a good kind of sport anyway.
-I love soccer, which makes me proud of that.
+From that we can draw a conclusion that soccer is a beneficial sport anyway.
