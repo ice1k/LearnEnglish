@@ -16,11 +16,11 @@
 + Ask sb. to do sth.
 
 + 省略to的不定式
-  + help
-  + make
-  <!--+ have-->
-  + let
-  + scholarship
+	+ help
+	+ make
+	<!--+ have-->
+	+ let
+	+ scholarship
 
 + Lucy lost the ability to communicate with others.
 
@@ -31,18 +31,18 @@
 + They set off early so as to catch the train.
 
 + To 开头的
-  + To be honest, it's easy.
-  + To tell you the truth, it's easy.
-  + To begin with, it's easy.
-  + To be fair, it's easy.
-  + To be exact, it's easy.
+	+ To be honest, it's easy.
+	+ To tell you the truth, it's easy.
+	+ To begin with, it's easy.
+	+ To be fair, it's easy.
+	+ To be exact, it's easy.
 
 + He had arrived the train station, only to find the train had left.
 
 + 疑问词\+非谓语动词
-  + How to solve
-  + Where to go
-  + What to do // I don't know what to say
+	+ How to solve
+	+ Where to go
+	+ What to do // I don't know what to say
 
 + fallen leaves
 
@@ -58,7 +58,7 @@
 
 + Most teachers working in this college are doctor.
 
-+ Do you know that girl emplyed by that company.
++ Do you know that girl employed by that company.
 
 + I have my car repaired.
 
@@ -82,3 +82,17 @@
 + Standing on the building, he boon dee.
 
 + Not knowing what to do, he came to ask the police.
+
++ Teenagers could watch TV in a proper way with our help, preventing them from going astray.
+
++ guidance
+
+|\\ \     <!-- Haskell -->
+| \\ \    <!-- Haskell -->
+|  \\ \   <!-- Haskell -->
+| //\\ \  <!-- Haskell -->
+|//  \\ \ <!-- Haskell -->
+
++ boy boy next door boy boy next door deep dark boy next door
+
++ ought to
