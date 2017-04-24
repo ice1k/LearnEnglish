@@ -12,3 +12,7 @@
   + 动名词 doing
 
 + be harmful to
+
+<!-- 所以川普整了半天就是个校长 -->
++ president 校长
+

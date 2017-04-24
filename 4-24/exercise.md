@@ -65,3 +65,20 @@
 + I have my hair cut.
 
 + I see that girl get on the bus.
+
++ Walking on the street, I saw a girl running across the road.
+
++ When heated, ice melts.
+
+<!-- 卫宫士郎名言 非谓语形式 -->
++ When killed, people die.
+
++ Illed, he was absent.
+
++ He fell down, breaking his leg.
+
++ Working hard, you'll success. === If you work hard, you'll success.
+
++ Standing on the building, he boon dee.
+
++ Not knowing what to do, he came to ask the police.
