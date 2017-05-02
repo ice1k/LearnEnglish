@@ -28,13 +28,20 @@ take_it_boy = {
 		'meme' => '模仿/复制',
 		'longevity' => '长寿',
 		'sewer' => '下水管道',
+		'toss' => '扔，抛',
+		'scold' => '骂',
+		'fickle' => '浮躁的，变化无常的',
+		'rapidity' => '速度',
+		'imprint' => '印记，深刻影响',
+		'reunion' => '团聚，聚会',
 }
 
 _5_2 = Words.new
 _5_2.words take_it_boy
 # _5_2.listen_write
 
-first = {}
+first = {
+}
 
 %w(
 strategic
@@ -48,10 +55,10 @@ implication
 compliment
 overwhelm
 dormitory
-).each do |w|
+).map! do |w|
 	first[w] = _5_2.map[w]
 end
 
 a = Words.new
 a.words first
-a.listen_write
+# a.listen_write
