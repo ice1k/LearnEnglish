@@ -34,6 +34,9 @@ take_it_boy = {
 		'rapidity' => '速度',
 		'imprint' => '印记，深刻影响',
 		'reunion' => '团聚，聚会',
+		'pace' => '步伐/速度',
+		'economical' => '有经济效益的/划算的',
+		'distinguished' => '杰出的',
 }
 
 _5_2 = Words.new
