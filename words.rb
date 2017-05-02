@@ -15,6 +15,7 @@ end
 
 ## Base class
 class Words
+	attr_reader :map
 	## add words
 	def words(map)
 		@map = map
