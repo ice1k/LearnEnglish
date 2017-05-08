@@ -27,3 +27,14 @@
 
 + be under the control of 被...监管
 
++ Life abounds with such examples
+
++ turn out to do = ends up \[in\] doing
+
++ the son of senior government official \(官二代\)
+
++ public fitness facilities
+
++ connective games
+
++ which is \[barely possible/in no way\] + 对方观点
