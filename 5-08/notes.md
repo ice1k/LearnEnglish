@@ -9,7 +9,7 @@
 
 + opposite to + \[n.\] === while
 
-+ thorough ÍêÕûµÄ£¬ÍêÈ«µÄ
++ thorough å®Œæ•´çš„ï¼Œå®Œå…¨çš„
 
 + contain a diversity of
 
@@ -17,13 +17,13 @@
 
 + give rise to === lead to
 
-+ control over + \[n.\] ¼à¹Ü...
++ control over + \[n.\] ç›‘ç®¡...
 
-+ relevent government Ïà¹ØÕþ¸®²¿ÃÅ
++ relevent government ç›¸å…³æ”¿åºœéƒ¨é—¨
 
-+ be in control of ¼à¹Ü...
++ be in control of ç›‘ç®¡...
 
-+ be in the control of ±»...¼à¹Ü
++ be in the control of è¢«...ç›‘ç®¡
 
-+ be under the control of ±»...¼à¹Ü
++ be under the control of è¢«...ç›‘ç®¡
 
