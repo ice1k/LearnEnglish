@@ -17,7 +17,7 @@ take_it_boy = {
 		'imply' => '暗示,暗含',
 		'implication' => '含义',
 		'incident' => '小事情,小插曲',
-		'compliment' => '奉承',
+		'compliment' => '奉承/赞美',
 		'impersonal' => '没有人情味的',
 		'overwhelm' => '压制',
 		'understatement' => '低估',
@@ -25,10 +25,10 @@ take_it_boy = {
 		'introductory' => '引入性的',
 		'analogy' => '类比',
 		'reproduction' => '繁殖',
-		'meme' => '模仿/复制',
+		'meme' => '文化基因/模仿/复制',
 		'longevity' => '长寿',
 		'sewer' => '下水管道',
-		'toss' => '扔，抛',
+		'toss' => '扔，抛', # toss and turn
 		'scold' => '骂',
 		'fickle' => '浮躁的，变化无常的',
 		'rapidity' => '速度',
@@ -58,7 +58,7 @@ implication
 compliment
 overwhelm
 dormitory
-).map! do |w|
+).each do |w|
 	first[w] = _5_2.map[w]
 end
 

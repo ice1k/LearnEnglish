@@ -71,4 +71,19 @@ obviously necessary, which has been proved by the evidence listed above.
 ## Should government spend money on entertainment or art facilities?
 
 Should government spend money on entertainment or art facilities has been
-discussed on the web sharply online.
+discussed on the web sharply online. I think it really depends, but here I'll
+support entertainment.
+
+First let's focus on the benefit. Entertainment is obviously more benefitial than
+art, because of the amount of people that would like to spend time and money on
+using those facilities. Governments can earn more by providing entertainment
+services, which enables them to provide more. That is to say, entertainment is
+prior to art.
+
+Secondly we can discuss about people's requirements. As mentioned above, less
+people need art, less people understand art. Most of them just want to have a
+rest after a day's heavy work. Art doesn't fit the need, but entertainment does.
+
+From that we can draw a conclusion -- government should spend their money on
+entertainment rather than art. Although art is important, but considering all the
+factors mentioned above, I'll give my vote to entertainment.
