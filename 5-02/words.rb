@@ -1,3 +1,4 @@
+# coding: utf-8
 require_relative '../words'
 
 take_it_boy = {
