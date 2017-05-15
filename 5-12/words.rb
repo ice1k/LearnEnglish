@@ -59,3 +59,21 @@ _______ = {
 
 _5_12 = Words.new
 _5_12.words _______
+# _5_12.review
+# _5_12.listen_write
+
+# mistaken:
+
+# occupy
+# excavation
+# elaborate
+# deteriorate
+# prestigious
+# disintegrat
+# pebble
+# algae
+# compensate
+# ultraviolet
+# comprise
+# elusive
+
