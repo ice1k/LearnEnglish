@@ -1,9 +1,10 @@
 (3..5).each do |month|
 	(1..31).each do |day|
 		file_name = format '%d-%02d', month, day
+    words_file_name = "#{file_name}/words.rb"
 		# noinspection RubyResolve
-		if File.exist? file_name
-			load "#{file_name}/words.rb", true
+		if File.exist? words_file_name
+			load words_file_name, true
 			print 'Words file for ', file_name, ' is loaded.', "\n"
 		end
 	end
