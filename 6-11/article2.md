@@ -4,7 +4,7 @@ ability to plan and organize -->
 
 With the development of technology, people's lives nowadays are getting more and
 more complicated. This tendency affects the education. Some educators consider it
-essential to learn the young people the ability to plan and organize, in order to
+essential to cultivate young people's ability to plan and organize, in order to
 manage their life better in the complex modern world. I agree with their idea.
 
 First, young people will eventually live alone, but it takes time to learn how to
