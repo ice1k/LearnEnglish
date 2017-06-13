@@ -117,7 +117,7 @@
 
 + harmoniously 和谐的
 
-> seek harmony, while reserving the difference
+> seek harmony, while reserving(conserving) the difference
 
 + diligently 勤奋地 努力地
 
@@ -156,4 +156,63 @@
 
 + shun 回避
 
++ choreography 编舞
+
++ impose 强迫做
+
++ imposing 使人印象深刻的
+
++ system 体系
+
++ campaign 广告 活动 运动
+
++ rally 集合 集会 联合
+
++ degradation 退化
+
++ bill === act 法案
+
++ tap into 涉及到...领域
+
++ let go of === 放弃 === quit
+
++ be credit for === 因为...有信誉， ~= be famous for
+
++ promote 宣传 晋升 升迁
+
++ grow interest in === be interested in
+
+> The seeds for programming were probably planted since 2 years ago.
+
+> The seeds for programming were probably planted in 2 years.
+
++ demonstrator 游行者
+
++ spark 激起 激发 引发...的产生
+
++ imperil 使遭受危险
+
++ passage 通过 (pass)
+
++ %s enter(s) the mainstream
+
++ prevalent 流行 普遍
+
++ learn the hard way 吃瘪'
+
++ fluorescent 白炽的 荧光的
+
++ compact 紧凑的
+
++ incandescent 白炽的
+
++ cost-effective 省钱的
+
++ work like a charm 成功了
+
++ conserve 保留
+
++ lean 倾斜
+
++ on all dimensions === in all aspects === in all regards
 
