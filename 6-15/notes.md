@@ -60,3 +60,9 @@
 
 - hinder 隐藏
 
+- substrate 使集中
+
+- stand 立场 场地
+
+- estuary 河口 张口
+
