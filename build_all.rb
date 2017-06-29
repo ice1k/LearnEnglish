@@ -16,7 +16,9 @@ def quit
 	exit 0
 end
 
-if $*[0] != '--no-eval'
+cmd_param = $*[0]
+
+if cmd_param != '--no-eval' && cmd_param != '-ne'
 	loop do
 		begin
 			p '=> ', (eval gets)
