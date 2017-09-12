@@ -46,7 +46,7 @@
 
 - shuddered 发抖
 
-- loom 令人生畏地出现
+- loom [v.] 令人生畏地出现 赫然耸现 [n.] 织布机
 
 - pinch 捏 掐
 
