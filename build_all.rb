@@ -1,4 +1,4 @@
-(3..8).each do |month|
+(3..9).each do |month|
 	(1..31).each do |day|
 		file_name = format '%d-%02d', month, day
     words_file_name = "#{file_name}/words.rb"

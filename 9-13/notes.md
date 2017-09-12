@@ -19,3 +19,5 @@
 - jovial 善良快活的
 
 - apropos 有关的
+
+- dilettante 半吊子
