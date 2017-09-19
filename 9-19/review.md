@@ -1,6 +1,6 @@
 + National Assembly 某个国家机构
 
-+ as the attack was to be made in a language but little studied 写出来但是别人不大看不懂 (高度上下文相关)
++ as the attack was to be made in a language but little studied 写出来但是别人不大看懂 (高度上下文相关)
 
 + forth 以后 向外
 
@@ -49,3 +49,23 @@
 + inveteracy 根深蒂固
 
 + sow 播撒
+
++ Sequoia 红杉
+
++ Mammon 拜金
+
++ righteous 正直的
+
++ grove 树丛
+
++ skin 欺骗
+
++ plead 乞求 声援 辩护
+
++ millman 工厂工人
+
++ lumber 木材
+
++ sawmill 锯木场
+
++ lamentable 令人惋惜的
