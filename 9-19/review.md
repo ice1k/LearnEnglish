@@ -45,3 +45,7 @@
 + disposition 倾向
 
 + hitherto [adv.] 迄今
+
++ inveteracy 根深蒂固
+
++ sow 播撒
