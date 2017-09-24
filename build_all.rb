@@ -1,9 +1,9 @@
 (3..9).each do |month|
 	(1..31).each do |day|
 		file_name = format '%d-%02d', month, day
-    words_file_name = "#{file_name}/words.rb"
-    notes_file_name = "#{file_name}/notes.md"
-    article_file_name = "#{file_name}/article.md"
+		words_file_name = "#{file_name}/words.rb"
+		notes_file_name = "#{file_name}/notes.md"
+		article_file_name = "#{file_name}/article.md"
 		# noinspection RubyResolve
 		if File.exist? words_file_name
 			load words_file_name, true
