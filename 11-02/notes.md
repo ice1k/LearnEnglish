@@ -40,3 +40,4 @@
 
 + oscillation 振动
 
++ convection 对流
