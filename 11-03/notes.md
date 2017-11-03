@@ -5,3 +5,5 @@
 + nucleus 核
 
 + nuclei 核 复数
+
++ dissipation 消散 
